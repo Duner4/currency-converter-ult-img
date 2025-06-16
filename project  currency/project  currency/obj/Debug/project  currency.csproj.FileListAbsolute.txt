@@ -1,0 +1,141 @@
+D:\project  currency\project  currency\bin\Debug\project  currency.exe.config
+D:\project  currency\project  currency\bin\Debug\project  currency.exe
+D:\project  currency\project  currency\bin\Debug\project  currency.pdb
+D:\project  currency\project  currency\obj\Debug\project  currency.csproj.AssemblyReference.cache
+D:\project  currency\project  currency\obj\Debug\project__currency.Form1.resources
+D:\project  currency\project  currency\obj\Debug\project__currency.Properties.Resources.resources
+D:\project  currency\project  currency\obj\Debug\project  currency.csproj.GenerateResource.cache
+D:\project  currency\project  currency\obj\Debug\project  currency.csproj.CoreCompileInputs.cache
+D:\project  currency\project  currency\obj\Debug\project  currency.exe
+D:\project  currency\project  currency\obj\Debug\project  currency.pdb
+C:\Users\Student\Desktop\currency-corventer-main\project  currency\project  currency\bin\Debug\project  currency.exe.config
+C:\Users\Student\Desktop\currency-corventer-main\project  currency\project  currency\bin\Debug\project  currency.exe
+C:\Users\Student\Desktop\currency-corventer-main\project  currency\project  currency\bin\Debug\project  currency.pdb
+C:\Users\Student\Desktop\currency-corventer-main\project  currency\project  currency\obj\Debug\project  currency.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\currency-corventer-main\project  currency\project  currency\obj\Debug\project__currency.Form1.resources
+C:\Users\Student\Desktop\currency-corventer-main\project  currency\project  currency\obj\Debug\project__currency.Properties.Resources.resources
+C:\Users\Student\Desktop\currency-corventer-main\project  currency\project  currency\obj\Debug\project  currency.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\currency-corventer-main\project  currency\project  currency\obj\Debug\project  currency.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\currency-corventer-main\project  currency\project  currency\obj\Debug\project  currency.exe
+C:\Users\Student\Desktop\currency-corventer-main\project  currency\project  currency\obj\Debug\project  currency.pdb
+D:\currency-sch-main\project  currency\project  currency\bin\Debug\project  currency.exe.config
+D:\currency-sch-main\project  currency\project  currency\bin\Debug\project  currency.exe
+D:\currency-sch-main\project  currency\project  currency\bin\Debug\project  currency.pdb
+D:\currency-sch-main\project  currency\project  currency\obj\Debug\project  currency.csproj.AssemblyReference.cache
+D:\currency-sch-main\project  currency\project  currency\obj\Debug\project__currency.Form1.resources
+D:\currency-sch-main\project  currency\project  currency\obj\Debug\project__currency.Properties.Resources.resources
+D:\currency-sch-main\project  currency\project  currency\obj\Debug\project  currency.csproj.GenerateResource.cache
+D:\currency-sch-main\project  currency\project  currency\obj\Debug\project  currency.csproj.CoreCompileInputs.cache
+D:\currency-sch-main\project  currency\project  currency\obj\Debug\project  currency.exe
+D:\currency-sch-main\project  currency\project  currency\obj\Debug\project  currency.pdb
+C:\Users\Student\Desktop\currency-sch-upt-main\project  currency\project  currency\bin\Debug\project  currency.exe.config
+C:\Users\Student\Desktop\currency-sch-upt-main\project  currency\project  currency\bin\Debug\project  currency.exe
+C:\Users\Student\Desktop\currency-sch-upt-main\project  currency\project  currency\bin\Debug\project  currency.pdb
+C:\Users\Student\Desktop\currency-sch-upt-main\project  currency\project  currency\obj\Debug\project  currency.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\currency-sch-upt-main\project  currency\project  currency\obj\Debug\project__currency.Form1.resources
+C:\Users\Student\Desktop\currency-sch-upt-main\project  currency\project  currency\obj\Debug\project__currency.Properties.Resources.resources
+C:\Users\Student\Desktop\currency-sch-upt-main\project  currency\project  currency\obj\Debug\project  currency.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\currency-sch-upt-main\project  currency\project  currency\obj\Debug\project  currency.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\currency-sch-upt-main\project  currency\project  currency\obj\Debug\project  currency.exe
+C:\Users\Student\Desktop\currency-sch-upt-main\project  currency\project  currency\obj\Debug\project  currency.pdb
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\project  currency.exe.config
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\project  currency.exe
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\project  currency.pdb
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\obj\Debug\project  currency.csproj.AssemblyReference.cache
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\obj\Debug\project__currency.Form1.resources
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\obj\Debug\project__currency.Properties.Resources.resources
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\obj\Debug\project  currency.csproj.GenerateResource.cache
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\obj\Debug\project  currency.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\obj\Debug\project  currency.exe
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\obj\Debug\project  currency.pdb
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\austocad.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\austochi.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\austoeuro.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\austopound.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\austorup.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\austoswis.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\austousd.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\austoyen.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\bgntoaus.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\bgntocad.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\bgntochi.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\bgntoeuro.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\bgntopound.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\bgntorupee.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\bgntoswiss.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\bgntousd.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\bgntoyen.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\cadtoaus.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\cadtobgn.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\cadtochi.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\cadtoeuro.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\cadtopound.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\cadtorup.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\cadtoswis.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\cadtoyen.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\cantousd.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\chitoaus.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\chitobgn.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\chitocad.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\chitoeuro.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\chitopound.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\chitorupee.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\chitoswis.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\chitousd.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\chitoyen.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\eurotoaus.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\eurotobg.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\eurotocan.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\eurotochi.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\eurotopou.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\eurotorup.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\eurotoswi.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\eurotousd.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\eurotoyen.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\one.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\poundtoaus.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\poundtobgn.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\poundtocan.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\poundtochi.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\poundtoeuro.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\poundtorupee.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\poundtoswis.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\poundtousd.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\poundtoyen.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\rupeetoaus.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\rupeetobgn.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\rupeetocad.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\rupeetochi.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\rupeetoeuro.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\rupeetopound.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\rupeetoswiss.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\rupeetousd.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\rupeetoyen.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\swisstoaus.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\swisstobgn.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\swisstocad.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\swisstochi.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\swisstoeuro.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\swisstopound.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\swisstorupee.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\swisstousd.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\swisstoyen.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\usdtoaus.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\usdtobgn.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\usdtocan.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\usdtoch.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\usdtoeur.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\usdtopound.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\usdtoru.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\usdtoswis.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\usdtoyen.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\yentoaus.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\yentobgn.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\yentocan.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\yentochi.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\yentoeuro.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\yentopound.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\yentorup.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\yentoswis.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\yentousd.png
+C:\Users\Kaloyan\Desktop\currency-sch-upt-2-main\project  currency\project  currency\bin\Debug\images\austobgn.png
