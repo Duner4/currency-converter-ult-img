@@ -364,7 +364,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(293, 105);
             this.button1.TabIndex = 15;
-            this.button1.Text = "Обмяна";
+            this.button1.Text = "Convert";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -374,7 +374,7 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 103);
             this.button3.TabIndex = 25;
-            this.button3.Text = "Размяна на валутите";
+            this.button3.Text = "Swap the currencies";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
